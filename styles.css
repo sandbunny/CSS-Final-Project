@@ -1,0 +1,100 @@
+.container-header {
+background-color: lightgray;
+display: flex;
+flex-direction: row;
+flex-wrap: nowrap;
+justify-content: space-between;
+}
+
+.header-wrapper {
+padding-left: 40px;
+padding-top: 4px;
+}
+
+.header-wrapper-text {
+font-size: small;
+display: inline-flex;
+margin-right: 20px;
+justify-content:space-evenly;
+}
+
+.header-text {
+  margin-right: 10px;
+  padding-top: 10px;
+}
+
+
+
+
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+nav {
+  margin-left: 35px;
+  display:flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+ul {
+  padding-left: 670px;
+}
+
+li {
+  font-size: small;
+ list-style: none;
+display: inline;
+margin-right: 10px;
+font-weight: 500;
+}
+
+.search-navigation {
+  margin-left: 480px;
+  padding-bottom: ;
+}
+
+
+
+
+.shopping-bag {
+  width: 23px;
+}
+
+aside {
+  background-color: lightgray;
+  text-align: center;
+  font-size: small;
+}
+
+.discount-text {
+  margin-top: -18px;
+  font-size: 10px;
+  text-decoration: underline;
+}
+
+.background-image {
+  width: 100%;
+  height: 70vh;
+}
+
+h1 {
+  text-align: center;
+  font-weight: bolder;
+  font-family: fantasy;
+  font-size: 55px;
+}
+
+.h1-text {
+  text-align: center;
+  font-size: x-small;
+}
+
+.button {
+  display: flex;
+  flex-direction: row;  
+ justify-content: space-evenly;
+
+}
